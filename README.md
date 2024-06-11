@@ -1,4 +1,6 @@
 # Assignment 4 (Wk4) - Build a Full Stack Application
+Example: https://biggerstack-client.onrender.com/
+
 User stories:
 - 🐿️ As a user, I want to visit the website and read the information on my phone or computer
 - 🐿️ As a user, I want to be able to leave a message in the guestbook
