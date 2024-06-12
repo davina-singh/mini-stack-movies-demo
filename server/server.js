@@ -7,7 +7,7 @@ const db = new Database("database.db");
 // intitlaise the app by invoking express
 const app = express();
 app.use(express.json()); // parses incoming json request
-app.use(cors()); // tell the server to accept requests
+app.use(cors());
 // root route
 app.get("/", (req, res) => {
   res.send("This is my root route");

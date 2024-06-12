@@ -4,7 +4,7 @@ const movieContainer = document.getElementById("movie-container"); // container 
 const baseURL =
   window.location.hostname === "localhost"
     ? "http://localhost:8080"
-    : "https://mini-stack-movies-demo-server.onrender.com/";
+    : "https://mini-stack-movies-demo-server.onrender.com";
 // listen for submit on the form
 form.addEventListener("submit", async (e) => {
   e.preventDefault(); // do not do the default setting of reloading the page
