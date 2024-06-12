@@ -1,4 +1,6 @@
-# Assignment 4 (Wk4) - Build a Full Stack Application
+GET, POST, PUT, DELETE
+
+# Assignment 4 (Wk4) - Build a Full Stack Application: Visitor Guestbook
 Example: https://biggerstack-client.onrender.com/
 
 User stories:
